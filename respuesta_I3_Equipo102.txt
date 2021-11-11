@@ -15,4 +15,16 @@ date +%T >> beta.txt
 git status
 git add .
 git commit -m
-git push. Para solucionarlo, testeamos en una rama Prueba que fue eliminada posteriormente.	 
+git push. Para solucionarlo, testeamos en una rama Prueba que fue eliminada posteriormente.
+
+g-
+git pull
+git branch
+git checkout Zelarayan
+echo "Matias Ferrari" >> beta.txt 
+ifconfig >> beta.txt 
+date +%T >> beta.txt 
+git status
+git add .
+git commit -m"Alfa Close #8"
+git push	 
